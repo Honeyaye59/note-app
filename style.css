@@ -1,0 +1,22 @@
+body{
+    background-color: #301934;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.form-control {
+    max-width: 500px;
+}
+.order-list-container {
+    margin-top: 20px;
+}
+.list-group {
+    list-style: decimal inside;
+}
+.list-group-item {
+    display: list-item;
+}
